@@ -1,3 +1,4 @@
+import 'reflect-metadata';
 import './database/index.database';
 import express from 'express';
 import routes from './routes/index.routes';
